@@ -23,6 +23,7 @@ The purpose of this repository is to document my learning progress and showcase 
 ibm-software-testing-coursework/
 ├── module-1/
 │   └── lab-m1l2-login-testplan-annotated.md
+│   └── create-tdd-bdd-cases.md
 ├── module-2/
 ├── module-3/
 └── README.md
