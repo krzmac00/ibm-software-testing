@@ -1,7 +1,7 @@
 # IBM Software Testing Coursework
 
 This repository contains assignments, lab work, and portfolio artifacts completed as part of the **IBM Software Testing, Deployment, and Maintenance Strategies** course on Coursera.
-h
+
 ## About the Course
 
 The course focuses on key practices used in software testing, deployment, and maintenance. It covers topics such as reviewing test plans, analyzing test cases, working with traceability matrices, identifying risks, and improving software quality throughout the development lifecycle.
@@ -25,6 +25,7 @@ ibm-software-testing-coursework/
 │   └── lab-m1l2-login-testplan-annotated.md
 │   └── create-tdd-bdd-cases.md
 ├── module-2/
+│   └── lab-m2l1-cicd-release-plan.md
 ├── module-3/
 └── README.md
 ```
