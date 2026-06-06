@@ -27,6 +27,7 @@ ibm-software-testing-coursework/
 ├── module-2/
 │   └── lab-m2l1-cicd-release-plan.md
 │   └── lab-m2l2-data-migration-checklist.md
+│   └── lab-m2l3-monitoring-plan.md
 ├── module-3/
 └── README.md
 ```
