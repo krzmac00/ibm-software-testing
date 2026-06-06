@@ -26,6 +26,7 @@ ibm-software-testing-coursework/
 │   └── create-tdd-bdd-cases.md
 ├── module-2/
 │   └── lab-m2l1-cicd-release-plan.md
+│   └── lab-m2l2-data-migration-checklist.md
 ├── module-3/
 └── README.md
 ```
