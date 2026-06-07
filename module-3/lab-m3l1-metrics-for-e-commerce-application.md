@@ -1,8 +1,5 @@
 # Lab: Identify and Create Metrics for an E-commerce Application Based on Business Requirements
 
-**Author:** Krzysztof Macherzyński
-**Estimated time needed:** 45 minutes
-
 ## Scenario
 
 I've joined **"BookNest,"** a growing online bookstore experiencing occasional performance

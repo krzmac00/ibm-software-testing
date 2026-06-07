@@ -30,6 +30,7 @@ ibm-software-testing/
 │   └── lab-m2l3-monitoring-plan.md
 ├── module-3/
 │   └── lab-m3l1-metrics-for-e-commerce-application.md
+│   └── lab-m3l2-performance-plan-for-backend-system.md
 └── README.md
 ```
 
