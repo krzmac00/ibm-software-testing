@@ -20,7 +20,7 @@ The purpose of this repository is to document my learning progress and showcase 
 ## Repository Structure
 
 ```text
-ibm-software-testing-coursework/
+ibm-software-testing/
 ├── module-1/
 │   └── lab-m1l2-login-testplan-annotated.md
 │   └── create-tdd-bdd-cases.md
@@ -29,6 +29,7 @@ ibm-software-testing-coursework/
 │   └── lab-m2l2-data-migration-checklist.md
 │   └── lab-m2l3-monitoring-plan.md
 ├── module-3/
+│   └── lab-m3l1-metrics-for-e-commerce-application.md
 └── README.md
 ```
 
